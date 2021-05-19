@@ -21,6 +21,4 @@
 - Added a click listener to the related products which would navigate user to ProductDetailFragment for the clicked product.<br/>
 - Extra: Created Related Products using Recyclerview multi view types
 
-<h3>Project Preview</h3>
 
-<img src="https://i.hizliresim.com/qbpilbz.gif" width="300" height="550"/>
