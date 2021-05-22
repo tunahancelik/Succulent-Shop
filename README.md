@@ -36,10 +36,10 @@ Click [here](https://www.figma.com/file/aKFn9Czmk2ms2hqp4sctcw/Succulent-Shop?no
      <td>Product Product Detail Screen</td>
   </tr>
   <tr>
-    <td><img src="https://i.hizliresim.com/jhz2cs3.png" width=295 height=430></td>
-    <td><img src="https://i.hizliresim.com/1vfxcv5.png" width=295 height=430></td>
-    <td><img src="https://i.hizliresim.com/pdghu34.png" width=295 height=430></td>
-    <td><img src="https://i.hizliresim.com/bnx586f.png" width=295 height=430></td>
+    <td><img src="https://i.hizliresim.com/jhz2cs3.png" width=295 height=400></td>
+    <td><img src="https://i.hizliresim.com/1vfxcv5.png" width=295 height=400></td>
+    <td><img src="https://i.hizliresim.com/pdghu34.png" width=295 height=400></td>
+    <td><img src="https://i.hizliresim.com/bnx586f.png" width=295 height=400></td>
   </tr>
  </table>
 
