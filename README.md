@@ -1,5 +1,10 @@
 <h1 align="center"> Succulent Shop </h1> <br>
 
+<p align="center">
+    <img alt="" title="" src="https://i.hizliresim.com/4bv1ozz.png" width="124">
+  </a>
+</p>
+
 
 <p align="center">
 Succulent Shop is a project developed by Trendyol Mobile Bootcamp participants during bootcamp.
@@ -14,7 +19,12 @@ Succulent Shop is a project developed by Trendyol Mobile Bootcamp participants d
 - [Feedback](#feedback)
 
 ## Descriptions
+This archive contains the first assignment of the project. 
 
+Assignment includes sign up user interface design and client-side validation of e-mail, username and password entries.
+There are [conditions](https://github.com/safaorhan/succulent-shop/issues/1) that the user must comply with when registering.
+
+Click [here](https://www.figma.com/file/aKFn9Czmk2ms2hqp4sctcw/Succulent-Shop?node-id=0%3A1) to the figma design of the project.
 
 ## Screenshots
 <table>
@@ -25,10 +35,10 @@ Succulent Shop is a project developed by Trendyol Mobile Bootcamp participants d
      <td>Product Product Detail Screen</td>
   </tr>
   <tr>
-    <td><img src="https://i.hizliresim.com/jhz2cs3.png" width=270 height=470></td>
-    <td><img src="https://i.hizliresim.com/1vfxcv5.png" width=270 height=470></td>
-    <td><img src="https://i.hizliresim.com/pdghu34.png" width=270 height=470></td>
-    <td><img src="https://i.hizliresim.com/bnx586f.png" width=270 height=470></td>
+    <td><img src="https://i.hizliresim.com/jhz2cs3.png" width=270 height=450></td>
+    <td><img src="https://i.hizliresim.com/1vfxcv5.png" width=270 height=450></td>
+    <td><img src="https://i.hizliresim.com/pdghu34.png" width=270 height=450></td>
+    <td><img src="https://i.hizliresim.com/bnx586f.png" width=270 height=450></td>
   </tr>
  </table>
 
