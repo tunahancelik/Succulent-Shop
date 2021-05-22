@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c546bd96-2c5a-4d74-91c4-aa87a3545718" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/.github/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/androidTest/java/school/cactus/succulentshop/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/java/school/cactus/succulentshop/IdentifierValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/java/school/cactus/succulentshop/LoginActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/java/school/cactus/succulentshop/PasswordValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/java/school/cactus/succulentshop/Validator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/java/school/cactus/succulentshop/helpers/EmailValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/java/school/cactus/succulentshop/helpers/PasswordValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/java/school/cactus/succulentshop/helpers/UserNameValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/java/school/cactus/succulentshop/ui/SignupActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/layout/activity_signup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/app/src/test/java/school/cactus/succulentshop/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment01/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/.github/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/androidTest/java/school/cactus/succulentshop/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/login/LoginFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/login/validation/IdentifierValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/login/validation/PasswordValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/product/Constants.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/product/detail/ProductDetailAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/product/detail/ProductDetailDecoration.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/product/detail/ProductDetailFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/product/list/Product.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/product/list/ProductAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/product/list/ProductDecoration.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/product/list/ProductListFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/product/list/ProductStore.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/signup/SignupFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/signup/validation/EmailValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/signup/validation/PasswordValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/signup/validation/UserNameValidator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/java/school/cactus/succulentshop/validation/Validator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable/plant1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable/plant2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable/plant3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable/plant4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable/plant5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable/plant6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable/plant7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/drawable/plant8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/layout/fragment_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/layout/fragment_product_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/layout/fragment_product_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/layout/fragment_signup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/layout/item_detail_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/layout/item_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/app/src/test/java/school/cactus/succulentshop/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment02/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ssj9txaxvXfQPGpGy2wlImtCU8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c546bd96-2c5a-4d74-91c4-aa87a3545718" name="Default Changelist" comment="" />
+      <created>1621668044476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621668044476</updated>
+    </task>
+    <servers />
+  </component>
+</project>

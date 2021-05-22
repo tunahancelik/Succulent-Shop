@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Succulent Shop</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="this_field_is_required">This field is required.</string>
+    <string name="identifier_is_too_short">Identifier is too short.</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="check_your_connection">Please check your connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="unexpected_error_occurred">Unexpected error occurred</string>
+    <string name="your_session_is_expired">Your session is expired. Please log in.</string>
+    <string name="email_cannot_be_empty">Email or Username required</string>
+    <string name="email_required">Email is required</string>
+    <string name="password_cannot_be_empty">Paswword is required</string>
+    <string name="write_email">Email </string>
+    <string name="write_username">Username</string>
+    <string name="required_username">Username is required</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="invalid_email">Email is invalid</string>
+    <string name="username_short">Username is too short.</string>
+    <string name="username_long">Username is too long.</string>
+    <string name="password_rules">Password must contain one digit, one uppercase letter, one lowercase letter and one special character.</string>
+    <string name="username_rules">Username can only include a-z, 0-9 and _ characters.</string>
+    <string name="password_short">Password is too short.</string>
+    <string name="password_long">Password is too long.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="related_products">Related products:</string>
+    <string name="unexpected_error">Unexpected Error</string>
+    <string name="onFailure">Failed</string>
+    <string name="logout">Log out</string>
+</resources>
