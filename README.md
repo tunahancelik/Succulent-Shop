@@ -16,7 +16,7 @@ Succulent Shop is a project developed by Trendyol Mobile Bootcamp participants d
 - [Descriptions](#Descriptions)
 - [Screenshots](#Screenshots)
 - [Tech](#Tech)
-- [Assignments](#Assignment)
+- [Assignments](#Assignments)
 - [Feedback](#feedback)
 
 ## Descriptions
