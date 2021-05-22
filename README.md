@@ -13,10 +13,10 @@ Succulent Shop is a project developed by Trendyol Mobile Bootcamp participants d
 - [Assignments](#Assignment)
 - [Feedback](#feedback)
 
-#Descriptions
+## Descriptions
 
 
-#Screenshots
+## Screenshots
 <table>
   <tr>
     <td>Login Screen</td>
@@ -25,10 +25,10 @@ Succulent Shop is a project developed by Trendyol Mobile Bootcamp participants d
      <td>Product Product Detail Screen</td>
   </tr>
   <tr>
-    <td><img src="https://i.hizliresim.com/jhz2cs3.png" width=270 height=500></td>
-    <td><img src="https://i.hizliresim.com/1vfxcv5.png" width=270 height=500></td>
-    <td><img src="https://i.hizliresim.com/pdghu34.png" width=270 height=500></td>
-    <td><img src="https://i.hizliresim.com/bnx586f.png" width=270 height=500></td>
+    <td><img src="https://i.hizliresim.com/jhz2cs3.png" width=270 height=470></td>
+    <td><img src="https://i.hizliresim.com/1vfxcv5.png" width=270 height=470></td>
+    <td><img src="https://i.hizliresim.com/pdghu34.png" width=270 height=470></td>
+    <td><img src="https://i.hizliresim.com/bnx586f.png" width=270 height=470></td>
   </tr>
  </table>
 
